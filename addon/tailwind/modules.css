@@ -37,6 +37,10 @@
 */
 @import "./components/*.css";
 
+.fancy-box {
+  @apply .relative .my-2 .max-w-full .rounded-lg .bg-grey-light .overflow-hidden;
+}
+
 /**
 * This injects all of Tailwind's utility classes, generated based on your
 * config file.

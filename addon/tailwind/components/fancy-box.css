@@ -3,6 +3,8 @@
  * create other files.
 **/
 
+/* this doesn't get seen by the import ? */
+
 .fancy-box {
   @apply .relative .my-2 .max-w-full .rounded-lg .bg-red .overflow-hidden;
 }
