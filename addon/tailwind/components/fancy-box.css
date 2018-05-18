@@ -1,0 +1,8 @@
+/**
+ * Your first tailwind component goes here. You can rename this file whatever you like, as well as
+ * create other files.
+**/
+
+.fancy-box {
+  @apply .relative .my-2 .max-w-full .rounded-lg .bg-red .overflow-hidden;
+}

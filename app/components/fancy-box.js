@@ -1,0 +1,1 @@
+export { default } from 'addon-with-docs/components/fancy-box';
